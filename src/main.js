@@ -5,7 +5,7 @@ Vue.config.productionTip = false
 
 import router from "./router";
 
-
+//https://github.com/xiaoming-ssr/FanQiang-Book
 new Vue({
   el:'#app',
   router,
